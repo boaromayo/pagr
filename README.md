@@ -1,6 +1,6 @@
 ![Phylomortis: Avant-Garde][pagr]
 # Phylomortis: Avant-Garde
-----------------------------------------------------------------------------
+
 ### About
 
 This repository stores a copy of the scripts for the 2006 [RPG Advocate](http://rpgmaker.wikia.com/wiki/RPG_Advocate) game, **Phylomortis: Avant Garde**.

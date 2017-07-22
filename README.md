@@ -1,4 +1,4 @@
-![Phylomortis: Avant-Garde](pagr)
+![Phylomortis: Avant-Garde][pagr]
 # Phylomortis: Avant-Garde
 
 ### About

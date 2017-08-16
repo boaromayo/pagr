@@ -13,7 +13,7 @@ Phylomortis: Avant-Garde's plot is complex, with the dialogue's reading level eq
 
 More information about this game could be found at [the archived official site](story).
 
-[pagr]: https://github.com/boaromayo/pagr/blob/master/Graphics/Titles/phylo-ag.png
+[pagr]: /Graphics/Titles/phylo-ag.png
 [rpg-advo]: https://web.archive.org/web/20080131101636/http://www.phylomortis.com:80/html/agstory.html
 [rpg-maker-xp]: https://www.rpgmakerweb.com/products/programs/rpg-maker-xp
 [rgss]: http://rmvxace.wikia.com/wiki/RGSS
